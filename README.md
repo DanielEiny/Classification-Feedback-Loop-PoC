@@ -8,7 +8,7 @@ Brifely...
 
 To get ... see our [Project plan](Project Plan)
 
-For the story ... read the [Project paper](Project Paper)
+For the story ... read the [Project paper](Project Paper.ipynb)
 
 For more detailed ... see [Notebooks](Notebooks/README.rm)
 
