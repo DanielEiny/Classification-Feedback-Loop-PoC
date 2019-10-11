@@ -1,8 +1,7 @@
 # Classification-Feedback-Loop-PoC
-'Applied Data Science with Python' Course final project,  with EverCompliant
 Looking to re-train your classification model in an efficient way? you are in the right place.
 
-This repo summerize the work we've done in collaboration with EverCompliant as a final projet of the course 'Applied Data Science with Python' ...
+This repo summerize the work we've done in collaboration with EverCompliant company as a final projet of the course 'Applied Data Science with Python' (BIU, summer 2019 by dr. Omri Allouche)
 
 Brifely...
 
