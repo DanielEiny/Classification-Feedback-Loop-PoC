@@ -5,7 +5,7 @@ Looking to re-train your classification model in an efficient way? you are in th
 
 
 <p float="center">
- <img src="Resources/EverCompliantLOGO.png" width="200" /> 
+ <img src="Resources/EverCompliantLOGO.png" width="250" /> 
  <img src="Resources/BarIlanLOGO.jpg" width="200" /> 
 </p>
    
