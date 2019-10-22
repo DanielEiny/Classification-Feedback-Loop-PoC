@@ -1,12 +1,11 @@
 # Classification-Feedback-Loop-PoC
 Looking to re-train your classification model in an efficient way? you are in the right place.
 
-![image1](Resources/EverCompliantLOGO.png =250x)
-![image2](Resources/BarIlanLOGO.jpg =250x)
+
 <div class="row">
   <div class="column">
     <img src="Resources/EverCompliantLOGO.png" style="width:100%"> 
-</div>
+  </div>
   <div class="column">
     <img src="Resources/BarIlanLOGO.jpg" style="width:100%"> 
   </div>
