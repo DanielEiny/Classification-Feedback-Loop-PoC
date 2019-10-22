@@ -1,5 +1,5 @@
 # Classification-Feedback-Loop-PoC
-Looking to re-train your classification model in an efficient way? you are in the right place.
+Looking to re-train your classification model in an efficient way? start here.
 
 
 
