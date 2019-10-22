@@ -13,9 +13,8 @@ This repo summerize the work we've done in collaboration with EverCompliant comp
 
 Brifely...
 
-To get an overview of what we've done, read our [Project paper](ProjectPaper.ipynb)
+To get an overview of what we've done, read our [Project paper](ProjectPaper.ipynb)!
 
-For a more detailed description of each step, see [Notebooks](Notebooks/README.rm)
+For a more detailed description of each step, see [Notebooks](Notebooks/README.rm).
 
-And finally, feel free to use/contribute the [code](code/README.rm)
-
+And finally, feel free to use/contribute the [code](code/README.rm).
