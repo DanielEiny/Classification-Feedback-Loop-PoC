@@ -4,10 +4,10 @@ Looking to re-train your classification model in an efficient way? you are in th
 
 <div class="row">
   <div class="column">
-    <img src="Resources/EverCompliantLOGO.png" style="width:100%"> 
+    <img src="Resources/EverCompliantLOGO.png" alt="Snow" style="width:100%"> 
   </div>
   <div class="column">
-    <img src="Resources/BarIlanLOGO.jpg" style="width:100%"> 
+    <img src="Resources/BarIlanLOGO.jpg" alt="Snow2" style="width:100%"> 
   </div>
 </div>
    
