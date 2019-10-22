@@ -17,4 +17,4 @@ To get an overview of what we've done, read our [Project paper](ProjectPaper.ipy
 
 For a more detailed description of each step, see [Notebooks](Notebooks/README.rm).
 
-And finally, feel free to use/contribute the [code](code/README.rm).
+And finally, feel free to use/contribute the [Code](Code/README.rm).
