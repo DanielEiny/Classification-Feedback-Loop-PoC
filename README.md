@@ -1,7 +1,7 @@
 # Classification-Feedback-Loop-PoC
 Looking to re-train your classification model in an efficient way? you are in the right place.
 ![image1](Resources/EverCompliantLOGO.png)
-![image1](Resources/BarIlanLOGO.png)
+![image1](Resources/BarIlanLOGO.jpg)
 
 This repo summerize the work we've done in collaboration with EverCompliant company as a final projet of the course 'Applied Data Science with Python' (BIU, summer 2019 by dr. Omri Allouche)
 
