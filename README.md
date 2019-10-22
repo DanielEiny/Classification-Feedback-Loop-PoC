@@ -17,5 +17,5 @@ The solution sounds simple: focus on most relevant and important samples, and la
 
 
 To get an overview of what we've done, read our [project paper](ProjectPaper.ipynb)! \
-For a more detailed description of each step, see [Notebooks](Notebooks/README.rm). \
-And finally, feel free to use/contribute the [Code](Code/README.rm). 
+For a more detailed description of each step, see [Notebooks](Notebooks/README.md). \
+And finally, feel free to use/contribute the [Code](Code/README.md). 
